@@ -56,6 +56,6 @@ It allows users to park, remove, search, and calculate parking fees for vehicles
 # 📋 How Parking Fee is Calculated
 
 * Vehicle Type Fee
-   Car: 50
-   Bus: 100
-   Bike: 20
+   * Car: 50
+   * Bus: 100
+   * Bike: 20
