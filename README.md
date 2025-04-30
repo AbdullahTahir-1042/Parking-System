@@ -29,18 +29,16 @@ It allows users to park, remove, search, and calculate parking fees for vehicles
 
 # 🏛️ Folder Structure
 
-Project/
-│
-├── main.cpp             # Main menu and user interface
-├── carParking.cpp       # Parking system logic
-├── vehicle.cpp          # Base vehicle class
-│── carParking.h
-├── vehicle.h
-├── car.h                # Header and definition of Car class
-├── bus.h                # Header and definition of Bus class
-└── bike.h               # Header and definition of Bike class
-├── parkingApp.exe       # Compiled executable
-└── README.md            # Project documentation
+* main.cpp             # Main menu and user interface
+* carParking.cpp       # Parking system logic
+* vehicle.cpp          # Base vehicle class
+* carParking.h
+* vehicle.h
+* car.h                # Header and definition of Car class
+* bus.h                # Header and definition of Bus class
+* bike.h               # Header and definition of Bike class
+* parkingApp.exe       # Compiled executable
+* README.md            # Project documentation
 
 # 🚀 How to Compile and Run
 
@@ -48,11 +46,11 @@ Project/
 
 * Compile using g++:
 
-g++ main.cpp carParking.cpp vehicle.cpp car.cpp bus.cpp bike.cpp -o parkingApp.exe
+      g++ main.cpp carParking.cpp vehicle.cpp car.cpp bus.cpp bike.cpp -o parkingApp.exe
 
 * Run the program:
 
-./parkingApp.exe
+      ./parkingApp.exe
 
 
 # 📋 How Parking Fee is Calculated
