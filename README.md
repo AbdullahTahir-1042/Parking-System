@@ -46,7 +46,7 @@ It allows users to park, remove, search, and calculate parking fees for vehicles
 
 * Compile using g++:
 
-      g++ main.cpp Parking.cpp Vehicle.cpp -o parkingApp
+      g++ main.cpp Parking.cpp vehicle.cpp -o parkingApp
 
 * Run the program:
 
